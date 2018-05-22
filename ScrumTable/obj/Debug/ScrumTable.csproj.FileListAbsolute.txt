@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\ScrumTable\ScrumTable\bin\Debug\ScrumTable.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\ScrumTable\ScrumTable\bin\Debug\ScrumTable.exe
+c:\users\asus\documents\visual studio 2015\Projects\ScrumTable\ScrumTable\bin\Debug\ScrumTable.pdb
+c:\users\asus\documents\visual studio 2015\Projects\ScrumTable\ScrumTable\obj\Debug\ScrumTable.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\ScrumTable\ScrumTable\obj\Debug\ScrumTable.frmMain.resources
+c:\users\asus\documents\visual studio 2015\Projects\ScrumTable\ScrumTable\obj\Debug\ScrumTable.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\ScrumTable\ScrumTable\obj\Debug\ScrumTable.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\ScrumTable\ScrumTable\obj\Debug\ScrumTable.exe
+c:\users\asus\documents\visual studio 2015\Projects\ScrumTable\ScrumTable\obj\Debug\ScrumTable.pdb
+c:\users\asus\documents\visual studio 2015\Projects\ScrumTable\ScrumTable\obj\Debug\ScrumTable.frmStoryEkle.resources
+c:\users\asus\documents\visual studio 2015\Projects\ScrumTable\ScrumTable\obj\Debug\ScrumTable.frmTaskEkle.resources
